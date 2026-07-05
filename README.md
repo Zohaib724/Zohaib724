@@ -12,14 +12,23 @@
 
 ## 👨‍💻 About Me
 
-I am **Sk. Zohaib Hossain**, a **B.Tech graduate in Computer Science & Business Systems (CSBS)** from **Academy of Technology** (2026).
+Hi, I'm **Sk. Zohaib Hossain**, a **B.Tech graduate in Computer Science and Business Systems (CSBS)** from **Academy of Technology**.
 
-I am passionate about **Software Engineering, Data Analytics, and Data Science**. I enjoy solving real-world problems with data, building practical projects, and continuously improving my programming and analytical skills.
+I am an **aspiring Data Analyst and Software Engineer** with a passion for turning raw data into meaningful insights and building efficient software solutions. I enjoy working with data, solving real-world problems, and continuously expanding my technical knowledge through hands-on projects and practical learning.
 
-- 🌱 Currently learning Machine Learning & Data Analytics
-- 💡 Interested in AI, Business Intelligence and Software Development
-- 🎯 Goal: Become a Software Engineer / Data Analyst / Data Scientist
-- 📫 Email: **zohaibhossain2004@gmail.com**
+Over the course of my academic journey, I have developed a strong foundation in **Python**, **SQL**, **Microsoft Excel**, **Power BI**, and **Looker Studio** for data analysis and visualization. I regularly use **Pandas**, **NumPy**, and **Matplotlib** to clean, analyze, and visualize datasets, enabling data-driven decision-making and uncovering valuable business insights.
+
+Alongside data analytics, I have strengthened my programming skills in **Java** and **C**, gained experience with **MySQL**, and use **Git**, **GitHub**, **Jupyter Notebook**, and **Visual Studio Code** as part of my development workflow. I enjoy writing clean, maintainable code and continuously improving my analytical and problem-solving abilities.
+
+### 🌱 Currently
+- Expanding my knowledge of Data Analytics and Business Intelligence
+- Building hands-on projects using Python, SQL, Excel, and Power BI
+- Strengthening my problem-solving skills through Data Structures & Algorithms (DSA)
+
+### 🎯 Career Goal
+To build a successful career as a **Data Analyst** and **Software Engineer**, using data, technology, and analytical thinking to solve business problems, improve decision-making, and develop impactful software solutions.
+```
+
 
 ---
 
