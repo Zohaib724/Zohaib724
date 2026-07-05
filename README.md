@@ -93,6 +93,8 @@ Developed an end-to-end customer churn analysis project to identify customers wh
 https://github.com/Zohaib724/customer-churn-analysis
 
 
+
+
 ### 🌾 Adaptive Lemuria-Based Crop Recommendation System
 **Description:**  
 Designed and developed an intelligent crop recommendation system using machine learning to recommend the most suitable crop based on environmental and soil conditions. The project leverages the Adaptive Lemuria Optimization Algorithm to improve prediction performance and assist farmers in making informed agricultural decisions.
@@ -104,8 +106,8 @@ Designed and developed an intelligent crop recommendation system using machine l
 - Improved recommendation accuracy through feature optimization.
 - Designed to support precision agriculture and data-driven farming.
 
-**GitHub Repository:**  
-🔗 *Repository will be added soon.*
+🔗 Repository:
+    Repository will be added soon.
 ---
 
 ## 🎓 Education
