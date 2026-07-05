@@ -23,6 +23,38 @@ I am passionate about **Software Engineering, Data Analytics, and Data Science**
 
 ---
 
+## Analytics Toolkit
+
+### Languages
+- Python
+- Java
+- C
+- SQL
+
+### Libraries
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+
+### Visualization Tools
+- Power BI
+- Looker Studio
+- Microsoft Excel
+
+### Databases
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- Jupyter Notebook
+- Visual Studio Code
+
+
+
+
+
 
 ## 💻 Tech Stack
 
@@ -48,11 +80,32 @@ I am passionate about **Software Engineering, Data Analytics, and Data Science**
 
 ### 📊 Customer Churn Analysis
 
-An end-to-end customer churn analysis project using Python and Power BI to identify customers likely to leave and derive business insights through data cleaning, exploratory data analysis, visualization, and predictive analytics.
+**Description:**  
+Developed an end-to-end customer churn analysis project to identify customers who are likely to discontinue a service. Performed data cleaning, exploratory data analysis (EDA), feature engineering, and predictive modeling to uncover key factors influencing customer retention. Built interactive dashboards to present actionable business insights.
+
+**Key Highlights:**
+- Cleaned and preprocessed real-world customer data.
+- Conducted Exploratory Data Analysis (EDA) to identify churn patterns.
+- Built machine learning models for churn prediction.
+- Provided recommendations to improve customer retention.
 
 🔗 Repository:
 https://github.com/Zohaib724/customer-churn-analysis
 
+
+### 🌾 Adaptive Lemuria-Based Crop Recommendation System
+**Description:**  
+Designed and developed an intelligent crop recommendation system using machine learning to recommend the most suitable crop based on environmental and soil conditions. The project leverages the Adaptive Lemuria Optimization Algorithm to improve prediction performance and assist farmers in making informed agricultural decisions.
+
+**Key Highlights:**
+- Built a machine learning model for crop recommendation.
+- Applied the Adaptive Lemuria Optimization Algorithm for enhanced prediction.
+- Processed agricultural datasets containing soil and climatic parameters.
+- Improved recommendation accuracy through feature optimization.
+- Designed to support precision agriculture and data-driven farming.
+
+**GitHub Repository:**  
+🔗 *Repository will be added soon.*
 ---
 
 ## 🎓 Education
@@ -66,6 +119,19 @@ Computer Science & Business Systems (CSBS)
 2022 – 2026
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zohaib724&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Zohaib724&theme=github-dark&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zohaib724&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+
 
 ## 💻 Coding Profiles
 
