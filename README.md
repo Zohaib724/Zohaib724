@@ -23,16 +23,24 @@ I am passionate about **Software Engineering, Data Analytics, and Data Science**
 
 ---
 
+
 ## 💻 Tech Stack
 
-### Languages
-Python • Java • C • SQL
-
-### Data Analytics
-Pandas • NumPy • Matplotlib • Scikit-learn • Power BI • Looker Studio • Microsoft Excel
-
-### Tools
-Git • GitHub • Jupyter Notebook • VS Code • MySQL
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -66,23 +74,6 @@ Computer Science & Business Systems (CSBS)
 
 ---
 
-## 📈 GitHub Statistics
-
-> Replace `THEME` with `github_dark` or `tokyonight`.
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zohaib724&show_icons=true&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Zohaib724&theme=github-dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zohaib724&layout=compact&theme=github_dark)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Zohaib724&theme=darkhub)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zohaib724&theme=github-dark)
-```
-
----
 
 ## 🤝 Connect With Me
 
