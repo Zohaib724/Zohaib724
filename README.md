@@ -115,8 +115,7 @@ Designed and developed an intelligent crop recommendation system using machine l
 - Improved recommendation accuracy through feature optimization.
 - Designed to support precision agriculture and data-driven farming.
 
-🔗 Repository:
-    Repository will be added soon.
+ 
 ---
 
 ## 🎓 Education
