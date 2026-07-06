@@ -62,7 +62,7 @@ To build a successful career as a **Data Analyst** and **Software Engineer**, us
 
 
 
-
+---
 
 
 ## 💻 Tech Stack
