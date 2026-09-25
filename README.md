@@ -100,7 +100,7 @@ Developed an end-to-end Amazon sales analysis project to evaluate sales performa
 - Identified business insights to support better sales and inventory decisions.
 
 🔗 Repository:
-https://github.com/Zohaib724/customer-churn-analysis
+[https://github.com/Zohaib724/amazon-sales-analysis]
 
 
 
