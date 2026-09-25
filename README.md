@@ -43,7 +43,7 @@ To build a successful career as a **Data Analyst** and **Software Engineer**, us
 ### Libraries
 - Pandas
 - NumPy
-- Scikit-learn
+- Seaborn
 - Matplotlib
 
 ### Visualization Tools
@@ -87,16 +87,17 @@ To build a successful career as a **Data Analyst** and **Software Engineer**, us
 
 ## 🚀 Featured Project
 
-### 📊 Customer Churn Analysis
+### 📊 Amazon Sales Analysis
 
 **Description:**  
-Developed an end-to-end customer churn analysis project to identify customers who are likely to discontinue a service. Performed data cleaning, exploratory data analysis (EDA), feature engineering, and predictive modeling to uncover key factors influencing customer retention. Built interactive dashboards to present actionable business insights.
+Developed an end-to-end Amazon sales analysis project to evaluate sales performance, customer purchasing patterns, and product trends. Performed data cleaning, data analysis, and visualization using Excel to identify key business insights and understand sales performance across different categories, regions, and time periods. Created an interactive dashboard to present important KPIs and actionable insights.
 
 **Key Highlights:**
-- Cleaned and preprocessed real-world customer data.
-- Conducted Exploratory Data Analysis (EDA) to identify churn patterns.
-- Built machine learning models for churn prediction.
-- Provided recommendations to improve customer retention.
+- Cleaned and organized Amazon sales data for analysis.
+- Performed data analysis to identify sales trends, product performance, and customer purchasing patterns.
+- Analyzed key metrics such as sales, quantity, profit, and order performance.
+- Created an interactive Excel dashboard with charts, KPIs, and visualizations.
+- Identified business insights to support better sales and inventory decisions.
 
 🔗 Repository:
 https://github.com/Zohaib724/customer-churn-analysis
